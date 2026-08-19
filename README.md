@@ -700,8 +700,3 @@ FINAL VERIFIED RESULT
 ```
 
 The project therefore moves beyond a traditional chatbot toward an **autonomous, multi-agent operational management system**.
-## Demo Video
-
-[▶️ Watch CampusOps AI Demo](assets/campusops-demo.
-
-mp4)
